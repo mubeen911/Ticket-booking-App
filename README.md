@@ -1,4 +1,5 @@
 # ticketapp
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+ui/ux practise for flutter
+>>>>>>> 6ebc0d3ca73a739cc306a20950a785966838aea1
